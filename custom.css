@@ -1,0 +1,15 @@
+#home{
+     background-color:#00a5cc
+}
+#info{
+    background-color:white;
+    /*background: linear-gradient(#00a5cc, #00d0f0); */
+    /*opacity: .9*/
+}
+#info-content{
+    background-color:#00d0f0;
+}
+
+#testimonials-content{
+    background-color:#00a5cc;
+}
